@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @su1o
-- 👀 I’m interested in Python, JS, HTML, CSS, and C#
+- 👀 I’m experienced in Python, JS, HTML, CSS, and C#
 - 🌱 I’m currently learning JS
 - 📫 How to reach me biz@sulo.dev
 - 😄 Pronouns: he/him
